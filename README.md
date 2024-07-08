@@ -1,0 +1,1 @@
+This Dynamic Personal Finance Budget Tracker, which will tell us our income, our expenses and our savings along side some supporting visuals and all of this is going to be automatically calculated using inputs tab where you will be able to input your income or your expense sources.
